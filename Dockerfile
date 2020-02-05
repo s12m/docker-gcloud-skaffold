@@ -1,5 +1,5 @@
-FROM google/cloud-sdk:278.0.0-slim
-LABEL maintainer "Smart Algorihm Co., Ltd. <contact@smartalgorithm.co.jp>"
+FROM google/cloud-sdk:279.0.0-slim
+LABEL maintainer "Smart Algorithm Co., Ltd. <contact@smartalgorithm.co.jp>"
 
 RUN apt-get update -y && \
     apt-get install -y kubectl && \
