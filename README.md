@@ -1,6 +1,6 @@
 # Docker image based on google/cloud-sdk
 
-https://hub.docker.com/r/s12m/gcloud-skaffold
+https://ghcr.io/s12m/gcloud-skaffold
 
 ## Installed components
 
