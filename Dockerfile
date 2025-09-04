@@ -1,4 +1,4 @@
-FROM google/cloud-sdk:536.0.1-slim
+FROM google/cloud-sdk:537.0.0-slim
 LABEL maintainer "Smart Algorithm Co., Ltd. <contact@smartalgorithm.co.jp>"
 
 RUN apt-get update -y && \
